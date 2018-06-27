@@ -1,0 +1,16 @@
+HTTrack3.48-21 launched on Wed, 27 Jun 2018 15:53:44 at http://tf.itech-theme.com/brittanto-preview/brittanto/index3-particle.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://tf.itech-theme.com/brittanto-preview/brittanto/index3-particle.html -O "/home/sanat/websites/CV" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:53:45	Error: 	"Internal Server Error" (500) after 2 retries at link tf.itech-theme.com/robots.txt (from primary/primary)
+15:54:49	Warning: 	Retry after error -4 (No data (connection closed)) at link tf.itech-theme.com/brittanto-preview/brittanto/assets/css/magnific-popup.css (from tf.itech-theme.com/brittanto-preview/brittanto/index3-particle.html)
+15:55:03	Warning: 	HTML file (14024 bytes) retransferred due to lack of cache: tf.itech-theme.com/brittanto-preview/brittanto/index.html
+15:55:03	Warning: 	HTML file (13055 bytes) retransferred due to lack of cache: tf.itech-theme.com/brittanto-preview/brittanto/index-canvas.html
+15:55:04	Warning: 	HTML file (23403 bytes) retransferred due to lack of cache: tf.itech-theme.com/brittanto-preview/brittanto/blog-details.html
+
+HTTrack Website Copier/3.48-21 mirror complete in 1 minutes 24 seconds : 72 links scanned, 73 files written (2662219 bytes overall) [2467615 bytes received at 29376 bytes/sec], 271596 bytes transferred using HTTP compression in 19 files, ratio 16%, 2.1 requests per connection
+(1 errors, 4 warnings, 0 messages)
